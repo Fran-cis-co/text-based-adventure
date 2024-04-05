@@ -1,3 +1,4 @@
+package classes;
 // Parent class which just contains the player's name and their class
 public class Player {
     private String name;

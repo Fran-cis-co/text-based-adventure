@@ -19,6 +19,8 @@ public class Fighter extends Player{
         return playerClass;
     }
 
+    // Get functions
+
     int getAttackDamage(){
         return this.attackDamage;
     }

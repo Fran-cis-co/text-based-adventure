@@ -1,6 +1,8 @@
 // Driver class which starts the program
 public class Driver {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        // call the class which begins the game
+        Game startGame = new Game();
+
     }
 }

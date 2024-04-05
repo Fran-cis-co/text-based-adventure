@@ -14,6 +14,8 @@ public class Goblin extends Enemy{
         super(enemyType);
     }
 
+    // Get functions
+
     String getName(){
         return enemyType;
     }
